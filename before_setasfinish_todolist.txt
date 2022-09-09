@@ -1,0 +1,40 @@
+Before Set as Finish to DO list
+
+Needs : terminal, intranet in project page, pdf module
+
+[ ]mkdir hibou 
+    cd hibou
+
+[ ]git clone git......
+    cd git......
+    
+    ls -la
+[ ]dossier de rendu = consigne ?
+
+[ ]norminette -R CheckForbiddenSourceHeader	
+
+    ls -l */**
+[ ]fichier a rendre = consigne ?
+
+Pour chaque exo -->
+
+[ ]cat xxxx.c
+
+[ ]nom de la fonction = consigne ?
+
+____________________________________________________
+Si au moins 1 correction durant les points precedent
+
+[ ]correction
+
+[ ]git add -A / commit -m "merci hibou" / push
+
+[ ]rm -rf hibou (le dossier, pas la personne hein)
+
+[ ]go to etape 1 et retry
+    Les fautes de frappe arrivent toujours, retry OBLIGATOIRE
+
+____________________________________________________
+Si aucune correction
+
+[ ]clic set as Finish 
